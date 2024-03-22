@@ -1,6 +1,5 @@
 # Weather Track
 
-
 Welcome to the Weather Tracker web repository! This project contains the HTML, CSS, and JavaScript code for a weather tracking website. The website fetches real-time weather data from APIs and displays temperature, wind speed, humidity, and a 5-day forecast. It is designed to be fully responsive, providing a consistent user experience across different devices and screen sizes.
 
 ## Introduction
